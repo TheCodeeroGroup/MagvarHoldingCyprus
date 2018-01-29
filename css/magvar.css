@@ -133,6 +133,10 @@ a:focus {
     background-size: cover;
 }
 
+.mymy p{
+	
+text-align:left;	
+}
 
 @media(min-width:768px) {
 
